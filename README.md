@@ -33,4 +33,3 @@ import pandas as pd
 * [DataFrame](https://pandas.pydata.org/docs/reference/frame.html)
 * [Loc](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.loc.html?highlight=loc#pandas.DataFrame.loc)
 
-
