@@ -26,6 +26,7 @@ import pandas as pd
 
 ### Video de youtube
 
+[Explicacion del proyecto 1](https://youtu.be/TiiyXgY8-ZQ)
 
 ### Documentacion
 
